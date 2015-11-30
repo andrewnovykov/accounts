@@ -1,0 +1,2 @@
+# accounts
+rails + react
